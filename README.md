@@ -1,4 +1,4 @@
-![Profile](https://drive.google.com/file/d/1nMzV1ofkisCRvMCFcA5pri6MssL6dy3R/view?usp=sharing)
+![Profile](https://raw.githubusercontent.com/gokulcodes/gokulcodes/master/Baner.png)
 
 ## Hey, I'm Gokul Varadan
 ### Full Stack Designer and Developer
