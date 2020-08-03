@@ -1,4 +1,4 @@
-![Profile](./Profile.jpg)
+![Profile](https://drive.google.com/file/d/1nMzV1ofkisCRvMCFcA5pri6MssL6dy3R/view?usp=sharing)
 
 ## Hey, I'm Gokul Varadan
 ### Full Stack Designer and Developer
