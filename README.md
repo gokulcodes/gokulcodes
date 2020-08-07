@@ -1,7 +1,7 @@
 ![Profile](https://raw.githubusercontent.com/gokulcodes/gokulcodes/master/Baner.png)
 
 ## Hey, I'm Gokul Varadan
-### Full Stack Designer and Developer
+### Full Stack Developer
 
 #### 💻 About Me
 * 😎 AI/ML Learner and Open Source Enthusiast.
