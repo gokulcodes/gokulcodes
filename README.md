@@ -1,4 +1,3 @@
-![Profile](https://raw.githubusercontent.com/gokulcodes/gokulcodes/master/Baner.png)
 
 ## Hey, I'm Gokul Varadan
 ### Full Stack Developer
