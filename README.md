@@ -5,14 +5,12 @@
 #### 💻 About Me
 * 😎 AI/ML Learner and Open Source Enthusiast.
 * 🤩 Specialized in Web and Mobile Technologies.
-* ✒️ Expertized in Graphic Designer and UI/UX Specialist.
 * 💡 Exploring new technologies and Quick hacks.
 
 #### ⚙️ Tech Stack
-* Web Technologies including Reactjs | Nodejs |Python | Golang.
+* Web Technologies including Reactjs | Nodejs |Python | Golang | C++
 * MySql, Mongodb, PostgresQL
 * Familiar with Tensorflow, Pytorch DL Frameworks
-* Illustrator, Photoshop, Premeire Pro, After Effects
 
 #### 🤝🏻 Connect with Me
 <p align="center">
