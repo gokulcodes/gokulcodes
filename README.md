@@ -4,8 +4,8 @@
 
 #### 💻 About Me
 * 💡 Leetcoder | DSA | Problem Solving
-* 😎 AI/ML Learner and Open Source Enthusiast.
 * 🤩 Specialized in Web and Mobile Technologies.
+* 😎 AI/ML Learner and Open Source Enthusiast.
 
 #### ⚙️ Tech Stack
 * Web Technologies including Reactjs | Nodejs | Python | Golang | C++
