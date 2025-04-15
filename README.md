@@ -1,6 +1,5 @@
 
 ## Hey, I'm Gokul Varadan
-### Full Stack Developer
 
 #### 💻 About Me
 * 💡 Leetcoder | DSA | Problem Solving
@@ -17,5 +16,4 @@
 <a href="https://gokulvaradan.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/Website-gokulcodes.github.io-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/gokulvaradan/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Gokul%20Varadan-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.twitter.com/gokul_varadan/"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-_gokulvaradan-blue?style=flat-square&logo=Twitter"></a>
-<a href="mailto:gokul.varadan@outlook.com"><img alt="Email" src="https://img.shields.io/badge/Email-gokul.varadan@outlook.com-blue?style=flat-square&logo=outlook"></a>
 </p>
