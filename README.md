@@ -22,7 +22,7 @@ Feel free to explore my repositories and connect with me!
 
 #### 🤝🏻 Social handles
 <p align="left">
-<a href="https://www.twitter.com/gokul_varadan/"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-_gokulvaradan-green?style=flat-square&logo=Twitter"></a>
-<a href="https://www.linkedin.com/in/gokulvaradan/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Gokul%20Varadan-gree?style=flat-square&logo=linkedin"></a>
-<a href="https://gokulvaradan.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/Website-gokulcodes.github.io-green?style=flat-square&logo=google-chrome"></a>
+<a href="https://www.twitter.com/gokul_varadan/"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-_gokulvaradan?style=flat-square&logo=Twitter"></a>
+<a href="https://www.linkedin.com/in/gokulvaradan/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Gokul%20Varadan?style=flat-square&logo=linkedin"></a>
+<a href="https://gokulvaradan.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/Website-gokulcodes.github.io?style=flat-square&logo=google-chrome"></a>
 </p>
