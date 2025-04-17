@@ -1,19 +1,28 @@
 
-## Hey, I'm Gokul Varadan
+## 👋 Hey there! I'm Gokul
 
-#### 💻 About Me
-* 💡 Leetcoder | DSA | Problem Solving
-* 🤩 Specialized in Web and Mobile Technologies.
-* 😎 AI/ML Learner and Open Source Enthusiast.
+I'm a **Full Stack Engineer** with a strong passion for building powerful and elegant applications using **JavaScript** and its ecosystem. My expertise lies in crafting:
 
-#### ⚙️ Tech Stack
-* Web Technologies including Reactjs | Nodejs | Python | Golang | C++
-* MySQL, MongoDB, PostgreSQL
-* Familiar with Tensorflow, Pytorch DL Frameworks
+- 🌐 **Web Applications** with React, Next.js  
+- 📱 **Cross-platform Mobile Apps** using React Native  
+- 🖥️ **Desktop Applications** using Electron  
+- 🧩 **Chrome Extensions**, like tools for measuring website performance
 
-#### 🤝🏻 Connect with Me
-<p align="center">
-<a href="https://gokulvaradan.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/Website-gokulcodes.github.io-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/gokulvaradan/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Gokul%20Varadan-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.twitter.com/gokul_varadan/"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-_gokulvaradan-blue?style=flat-square&logo=Twitter"></a>
+I love building things from scratch — whether it's:
+
+- 📝 A fully featured **Rich Text Editor**
+- 📊 Interactive **Spreadsheets**
+- 🎨 **Canvas Tools** for editing **photos, videos**, and more
+
+I'm also comfortable working with **Python** and **Go**, especially for backend services and tooling.
+
+> 🚀 I'm passionate about solving real-world problems with code, experimenting with new technologies, and constantly learning to level up my craft.
+
+Feel free to explore my repositories and connect with me!
+
+#### 🤝🏻 Social handles
+<p align="left">
+<a href="https://www.twitter.com/gokul_varadan/"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-_gokulvaradan-green?style=flat-square&logo=Twitter"></a>
+<a href="https://www.linkedin.com/in/gokulvaradan/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Gokul%20Varadan-gree?style=flat-square&logo=linkedin"></a>
+<a href="https://gokulvaradan.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/Website-gokulcodes.github.io-green?style=flat-square&logo=google-chrome"></a>
 </p>
