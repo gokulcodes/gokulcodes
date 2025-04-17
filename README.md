@@ -1,5 +1,5 @@
 
-## 👋 Hey there! I'm Gokul
+## 👋 Hey there! I'm Gokul Varadan
 
 I'm a **Full Stack Engineer** with a strong passion for building powerful and elegant applications using **JavaScript** and its ecosystem. My expertise lies in crafting:
 
@@ -7,6 +7,7 @@ I'm a **Full Stack Engineer** with a strong passion for building powerful and el
 - 📱 **Cross-platform Mobile Apps** using React Native  
 - 🖥️ **Desktop Applications** using Electron  
 - 🧩 **Chrome Extensions**, like tools for measuring website performance
+- 🧠 **Algorithms** enthusiast – I love solving problems and writing efficient code
 
 I love building things from scratch — whether it's:
 
